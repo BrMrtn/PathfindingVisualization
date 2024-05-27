@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e601389-9805-43af-8673-886bd5140763" name="Changes" comment="Kezdeti beállítások">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/Spec+otletek.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Documentation/Specifikáció.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PathfindingVisualization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actionListeners/ChangeSizeActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actionListeners/ChangeSpeedActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actionListeners/ClearActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actionListeners/ClearPathsActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actionListeners/LoadActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actionListeners/RunActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/actionListeners/SaveActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/BestFirstSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/GreedyBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/EditState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/GridPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/MyGridLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/SidePanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/Sound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gui/TitleScreenPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hexGrid/AlgState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hexGrid/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hexGrid/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testClasses/AlgorithmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testClasses/GUITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testClasses/NodeTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BrMrtn&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="56abe637-cdc2-4f02-b722-71c22969fe33" />
+        <option name="url" value="https://github.com/BrMrtn/PathfindingVisualization.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2Xw9rCGg3ASsogXYOXAP1ioEkBp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projektek&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="gui" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="testClasses" />
+      <recent name="hexGrid" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Run">
+    <configuration name="Run" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PathfindingVisualization" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgorithmTest.deleteNeighbours" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PathfindingVisualization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testClasses" />
+      <option name="MAIN_CLASS_NAME" value="testClasses.AlgorithmTest" />
+      <option name="METHOD_NAME" value="deleteNeighbours" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgorithmTest.findDestination" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PathfindingVisualization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testClasses" />
+      <option name="MAIN_CLASS_NAME" value="testClasses.AlgorithmTest" />
+      <option name="METHOD_NAME" value="findDestination" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgorithmTest.findSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PathfindingVisualization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testClasses" />
+      <option name="MAIN_CLASS_NAME" value="testClasses.AlgorithmTest" />
+      <option name="METHOD_NAME" value="findSource" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgorithmTest.findSourceFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PathfindingVisualization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testClasses" />
+      <option name="MAIN_CLASS_NAME" value="testClasses.AlgorithmTest" />
+      <option name="METHOD_NAME" value="findSourceFail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgorithmTest.resetAlgStates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PathfindingVisualization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testClasses" />
+      <option name="MAIN_CLASS_NAME" value="testClasses.AlgorithmTest" />
+      <option name="METHOD_NAME" value="resetAlgStates" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AlgorithmTest.deleteNeighbours" />
+        <item itemvalue="JUnit.AlgorithmTest.resetAlgStates" />
+        <item itemvalue="JUnit.AlgorithmTest.findSource" />
+        <item itemvalue="JUnit.AlgorithmTest.findSourceFail" />
+        <item itemvalue="JUnit.AlgorithmTest.findDestination" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e601389-9805-43af-8673-886bd5140763" name="Changes" comment="" />
+      <created>1699529473712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699529473712</updated>
+      <workItem from="1699529474718" duration="2715000" />
+      <workItem from="1699540254748" duration="168000" />
+      <workItem from="1699540473912" duration="358000" />
+      <workItem from="1699541151276" duration="7405000" />
+      <workItem from="1699550136364" duration="4682000" />
+      <workItem from="1699601292366" duration="323000" />
+      <workItem from="1699978560522" duration="94000" />
+      <workItem from="1699978665781" duration="8866000" />
+      <workItem from="1700142541834" duration="701000" />
+      <workItem from="1700211657708" duration="43000" />
+      <workItem from="1700496998159" duration="15167000" />
+      <workItem from="1700589666390" duration="61000" />
+      <workItem from="1700649859281" duration="15321000" />
+      <workItem from="1700692238923" duration="367000" />
+      <workItem from="1700724652803" duration="46000" />
+      <workItem from="1700729298040" duration="9716000" />
+      <workItem from="1700742431122" duration="22821000" />
+      <workItem from="1700812458682" duration="8408000" />
+      <workItem from="1700897445286" duration="50320000" />
+      <workItem from="1700987794808" duration="2744000" />
+      <workItem from="1700991618183" duration="40592000" />
+      <workItem from="1701081055885" duration="9200000" />
+      <workItem from="1701116709048" duration="11285000" />
+      <workItem from="1701163465629" duration="17591000" />
+      <workItem from="1701187808625" duration="1318000" />
+      <workItem from="1701346479073" duration="56000" />
+      <workItem from="1701715852071" duration="11000" />
+      <workItem from="1701715880427" duration="85000" />
+      <workItem from="1711034439569" duration="67000" />
+      <workItem from="1713606628924" duration="165000" />
+      <workItem from="1713904882147" duration="139000" />
+      <workItem from="1714497774593" duration="256000" />
+      <workItem from="1714498249404" duration="2458000" />
+      <workItem from="1714743916616" duration="26000" />
+      <workItem from="1715322095030" duration="2770000" />
+      <workItem from="1715428066725" duration="1774000" />
+      <workItem from="1715547091412" duration="276000" />
+      <workItem from="1715547730492" duration="864000" />
+      <workItem from="1715590832286" duration="1194000" />
+      <workItem from="1715611804288" duration="594000" />
+      <workItem from="1715781565720" duration="36000" />
+    </task>
+    <task id="LOCAL-00001" summary="Kezdeti beállítások">
+      <option name="closed" value="true" />
+      <created>1699539683063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699539683063</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Kezdeti beállítások">
+      <option name="closed" value="true" />
+      <created>1699539731435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699539731435</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Kezdeti beállítások">
+      <option name="closed" value="true" />
+      <created>1699540747152</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699540747152</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Kezdeti beállítások" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kezdeti beállítások" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="gui.GridPanel" memberName="ui" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="GUI.gridPanel.grid[0][2]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
